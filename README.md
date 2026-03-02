@@ -19,6 +19,15 @@ SunTally is an interactive Shiny web app designed for turfgrass professionals, i
 
 ---
 
-## Live App
 
-[🔗 Launch SunTally](https://adwinters.shinyapps.io/sun-tally/)
+## Built With
+
+- [R](https://www.r-project.org/)  
+- [Shiny](https://shiny.rstudio.com/)  
+- [shinyjs](https://deanattali.com/shinyjs/) for interactivity  
+- [ggplot2](https://ggplot2.tidyverse.org/) for plotting  
+- [leaflet](https://rstudio.github.io/leaflet/) for maps  
+- [Open-Meteo API](https://open-meteo.com/) for weather and GDD data  
+
+---
+
