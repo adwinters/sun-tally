@@ -3,7 +3,7 @@
 [🔗 Launch Live App: Click here to open SunTally](https://adwinters.shinyapps.io/sun-tally/)
 [![Launch App](https://img.shields.io/badge/Shiny-Live_App-brightgreen)](https://adwinters.shinyapps.io/sun-tally/)
 
-SunTally is an interactive Shiny web app designed for turfgrass professionals, including lawn care operators and sports turf managers, to monitor and forecast growing degree days (GDD), temperature, rainfall, and evapotranspiration (ET) for any location. Users can quickly access weather data by using their browser’s location, entering a U.S. ZIP code, or inputting GPS coordinates, and the app visualizes daily high, low, and average temperatures alongside cumulative GDD, rainfall, and ET. This unified plot helps optimize the timing of pre-emergent herbicide or plant growth regulator applications by highlighting GDD windows, while also providing clear insights into weather trends and plant growth conditions.
+SunTally is an interactive Shiny web app designed for turfgrass professionals, including lawn care operators and sports turf managers, to monitor and forecast growing degree days (GDD), temperature, rainfall, and evapotranspiration (ET) for any location. Users can quickly access weather data by using their browser’s location, entering a U.S. ZIP code, or inputting GPS coordinates, and the app visualizes daily high, low, and average temperatures alongside cumulative GDD, rainfall, and ET. By integrating past and forecasted weather conditions, SunTally helps turf professionals determine the optimal timing for applications and make informed management decisions.
 
 ![SunTally Screenshot](screenshot.png)
 
