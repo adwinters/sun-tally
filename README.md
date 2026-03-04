@@ -1,9 +1,9 @@
 # SunTally
 
-[🔗 Launch Live App: Click here to open SunTally](https://adwinters.shinyapps.io/sun-tally/)
+[🔗 Launch Live App: Click here to open SunTally](https://adwinters.shinyapps.io/sun-tally/)  
 [![Launch App](https://img.shields.io/badge/Shiny-Live_App-brightgreen)](https://adwinters.shinyapps.io/sun-tally/)
 
-SunTally is an interactive Shiny web app designed for turfgrass professionals, including lawn care operators and sports turf managers, to monitor and forecast growing degree days (GDD), temperature, rainfall, and evapotranspiration (ET) for any location. Users can quickly access weather data by using their browser’s location, entering a U.S. ZIP code, or inputting GPS coordinates, and the app visualizes daily high, low, and average temperatures alongside cumulative GDD, rainfall, and ET. By integrating past and forecasted weather conditions, SunTally helps turf professionals determine the optimal timing for applications and make informed management decisions.
+**SunTally** is an interactive Shiny web app for turfgrass professionals, including lawn care operators and sports turf managers. It provides **quick, location-specific weather insights**, visualizing daily high, low, and average temperatures alongside cumulative **GDD, rainfall, and evapotranspiration (ET)**. Users can access data using their device’s **location services**, or manually with a **U.S. ZIP code or GPS coordinates**. By integrating past and forecasted weather, SunTally helps turf professionals determine **optimal application timing** and make informed management decisions.
 
 ![SunTally Screenshot](screenshot.png)
 
@@ -11,14 +11,14 @@ SunTally is an interactive Shiny web app designed for turfgrass professionals, i
 
 ## Features
 
-- Supports location input via browser geolocation, U.S. ZIP code, or GPS coordinates  
-- Visualizes daily high, low, and average temperatures  
-- Tracks cumulative GDD, rainfall, and evapotranspiration (ET)  
-- Highlights GDD windows for optimized application timing  
-- Interactive map for location
+- **Location Input** – Supports device location services, U.S. ZIP code, or GPS coordinates  
+- **Temperature Tracking** – View daily high, low, and average temperatures  
+- **GDD Monitoring** – Track cumulative GDD, rainfall, and evapotranspiration (ET)  
+- **Optimal Timing** – Highlights GDD windows for better application decisions  
+- **Interactive Map** – Explore your location on a dynamic map  
+- **Forecast Integration** – Combines historical and predicted weather for planning ahead  
 
 ---
-
 
 ## Built With
 
@@ -27,7 +27,4 @@ SunTally is an interactive Shiny web app designed for turfgrass professionals, i
 - [shinyjs](https://deanattali.com/shinyjs/) for interactivity  
 - [ggplot2](https://ggplot2.tidyverse.org/) for plotting  
 - [leaflet](https://rstudio.github.io/leaflet/) for maps  
-- [Open-Meteo API](https://open-meteo.com/) for weather and GDD data  
-
----
-
+- [Open-Meteo API](https://open-meteo.com/) for weather and GDD data
