@@ -3,7 +3,11 @@
 [🔗 Launch Live App: Click here to open SunTally](https://adwinters.shinyapps.io/sun-tally/)  
 [![Launch App](https://img.shields.io/badge/Shiny-Live_App-brightgreen)](https://adwinters.shinyapps.io/sun-tally/)
 
-**SunTally** is an interactive Shiny web app for turfgrass professionals, including lawn care operators and sports turf managers. It provides **quick, location-specific weather insights**, visualizing daily high, low, and average temperatures alongside cumulative **GDD, rainfall, and evapotranspiration (ET)**. Users can access data using their device’s **location services**, or manually with a **U.S. ZIP code or GPS coordinates**. By integrating past and forecasted weather, SunTally helps turf professionals determine **optimal application timing** and make informed management decisions.
+**SunTally** is an interactive Shiny web app for turfgrass professionals, including lawn care operators and sports turf managers.
+
+It provides **quick, location-specific weather insights**, visualizing daily high, low, and average temperatures alongside cumulative **GDD, rainfall, and evapotranspiration (ET)**. Users can access data using their device’s **location services**, or manually with a **U.S. ZIP code or GPS coordinates**.
+
+By integrating past and forecasted weather, SunTally helps turf professionals determine **optimal application timing** and make informed management decisions.
 
 ![SunTally Screenshot](screenshot.png)
 
